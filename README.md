@@ -22,6 +22,7 @@ To build machine learning models that can learn from historical data and make ac
 - Combined dataset: **310 patient records, 7 features**
 - Key challenges: inconsistent class labels across files (e.g. `Nrmal`, `type_h`, `tp_s`), right-skewed distribution in S_Degree
 
+---
 **Part 2 - Banking & Marketing**
 - Customer data from Bank X split across 2 CSV files, merged on Customer ID
 - Key features: Age, HighestSpend, HiddenScore, MonthlyAverageSpend, Level, Mortgage, Security, FixedDepositAccount, InternetBanking, CreditCard
