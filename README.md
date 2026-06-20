@@ -37,6 +37,7 @@ To build machine learning models that can learn from historical data and make ac
 - Visualized a **correlation heatmap** — found strongest correlation between P_incidence and S_slope (0.81); P_radius showed weak/negative correlation with other features
 - Plotted **pairplot and jointplot** — S_Degree had the highest influence on class separation; Type_S showed the most spread across all features
 - Applied **StandardScaler** for normalization (required for KNN as it is distance-based) and performed 80:20 train-test split
+---
 **Part 2 — Banking & Marketing**
 - Merged `Data1` and `Data2` on `ID`; dropped non-informative columns (`ID`, `ZipCode`, `CustomerSince`) and handled 0.4% null values in the target column
 - Converted binary and categorical columns to appropriate types; addressed severe class imbalance (4000+ non-loan vs <1000 loan customers) using **SMOTE**
