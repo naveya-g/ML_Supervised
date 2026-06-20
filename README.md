@@ -1,4 +1,4 @@
-# ML Supervised Learning - Healthcare Diagnosis & Bank Loan Prediction
+# 🏥🏦 ML Supervised Learning - Healthcare Diagnosis & Bank Loan Prediction
 
 This project applies supervised machine learning classification algorithms to solve two real-world problems:
 predicting patient medical conditions from biomechanics data, and identifying potential bank customers likely to take a loan on their credit card.
